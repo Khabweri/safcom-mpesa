@@ -48,7 +48,7 @@ class InstallMpesaPackage extends Command
     public function publishConfiguration($forcePublish = false)
     {
         $params = [
-            '--provider' => "Iankumu\Mpesa\MpesaServiceProvider",
+            '--provider' => "Safcom\Mpesa\MpesaServiceProvider",
             '--tag' => 'mpesa-config',
         ];
 
