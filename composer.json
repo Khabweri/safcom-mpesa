@@ -26,10 +26,11 @@
     {
       "name": "Andrew khabweri",
       "email": "andrewkhabweri@gmail.com",
+      "homepage": "https://github.com/Khabweri/safcom-mpesa",
       "role": "Developer"
     }
   ],
-  "homepage": "https://github.com/khabweri/Safcom/mpesa",
+  "homepage": "https://github.com/Khabweri/safcom-mpesa",
   "extra": {
     "laravel": {
       "providers": [
