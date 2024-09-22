@@ -20,7 +20,7 @@ The package contains implementation of the following Daraja APIs
 You can install this package through composer
 
 ```bash
-composer require safcom/mpesa:dev-mpesa
+composer require safcom/mpesa
 ```
 
 ## Configuration
