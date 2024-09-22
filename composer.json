@@ -2,7 +2,6 @@
   "name": "safcom/mpesa",
   "description": "A package that helps integrate the Mpesa APIs to your Laravel Application",
   "type": "library",
-  "version": "2.0",
   "license": "MIT",
   "keywords": [
     "mpesa",
@@ -56,7 +55,6 @@
     "guzzlehttp/guzzle": "^7.5"
   },
   "minimum-stability": "stable",
-  "prefer-stable": true,
   
   "config": {
     "allow-plugins": {
