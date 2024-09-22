@@ -55,7 +55,7 @@
     "illuminate/http":"^8.0 | ^9.0 | ^10.0 | ^11.0",
     "guzzlehttp/guzzle": "^7.5"
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true,
   
   "config": {
